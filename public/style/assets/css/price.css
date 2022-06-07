@@ -1,0 +1,40 @@
+/*-------------------------*/
+/*---halaman list Harga---*/
+
+.pricing .container{
+  padding-top: 120px;
+}
+
+.pricing .panel-heading{
+  background-color: rgb(255, 255, 255);
+}
+
+.pricing .table, th, td{
+  border: 1px solid rgb(0, 0, 0);
+  padding: 400px;
+}
+
+.pricing .container, h1{
+  padding-bottom: 50px;
+}
+
+
+/*-------------------------*/
+/*---halaman list Promo---*/
+
+.promo .container{
+  padding-top: 120px;
+}
+
+.promo .panel-heading{
+  background-color: rgb(255, 255, 255);
+}
+
+.promo .table, th, td{
+  border: 1px solid rgb(0, 0, 0);
+  padding: 400px;
+}
+
+.promo .container, h1{
+  padding-bottom: 50px;
+}
