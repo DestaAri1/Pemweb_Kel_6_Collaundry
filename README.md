@@ -8,3 +8,5 @@ hal-hal yang harus dilakukan untuk menggunakan projek kami :
 5. ketikkan php artisan serve
 6. Klik / Copy link yang telah ada
 7. Web siap digunakan
+
+link alternatif : https://drive.google.com/file/d/1EWjF5H-LSbUbXnMLRBp8iqTFsi02OVCr/view 
